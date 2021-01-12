@@ -3,7 +3,7 @@
 
 <br>
 
-### Jan 14th - Aylin Caliskan
+### Jan 14th - [Aylin Caliskan](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/01-14_Caliskan)
 <div><img src="https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/faculty_headshots/Caliskan_Aylin0420.jpg?itok=vEfY8Bgl" width="240"></div>
 
 
