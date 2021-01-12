@@ -103,7 +103,7 @@ readings3 <- paste0("[", week_paper_ref3,"](https://github.com/uchicago-computat
 This week's suggested readings:
 
 - `r readings0`
-- `r readings2`
+- `r readings1`
 
 Additional readings:
 

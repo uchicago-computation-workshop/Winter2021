@@ -1,3 +1,15 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+
+
+
 
 <br>
 
@@ -56,7 +68,7 @@
 This week's suggested readings:
 
 - [Caliskan, A., Bryson, J. J., & Narayanan, A. (2017). Semantics derived automatically from language corpora contain human-like biases. Science, 356(6334), 183-186.](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/01-14_Caliskan/Caliskan,Bryson&Narayanan(2017).pdf)
-- [Guo, W. & Caliskan, A. (2020). Detecting Emergent Intersectional Biases: Contextualized Word Embeddings Contain a Distribution of Human-like Biases.](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/01-14_Caliskan/Guo&Caliskan(2020).pdf)
+- [Steed, R. & Caliskan, A. (2021). Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases. ACM FAccT](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/01-14_Caliskan/Steed&Caliskan(2021).pdf)
 
 Additional readings:
 
