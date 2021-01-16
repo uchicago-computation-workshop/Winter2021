@@ -22,7 +22,7 @@ issues_url <- "https://github.com/uchicago-computation-workshop/Winter2021/issue
 zoom_url <- "https://uchicago.zoom.us/meeting/register/tJEsde-prDgrH9ETnoaaKfrXSV5ejgbP6Ntu"
 #Papers
 week_paper_ref0 <- "Khan, M. T., Hyun, M., Kanich, C., & Ur, B. (2018, April). Forgotten but not gone: Identifying the need for longitudinal data management in cloud storage. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12)."
-week_paper_file0 <- "Khan et al (2018).pdf"
+week_paper_file0 <- "Khan_et_al(2018).pdf"
 
 
 
@@ -62,6 +62,12 @@ readings0 <- paste0("[", week_paper_ref0,"](https://github.com/uchicago-computat
 <br>
 </div>
 
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+
+<br><br>
 
 
 <p class=footertext2>
@@ -75,12 +81,6 @@ To begin to wrangle with these issues, we take a holistic approach to helping us
 
 </p>
 
-<br>
-
-<h4 class=pfblock-header3> Thursday, `r date` </h4>
-<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
-
-<br><br>
 
 <p class=footertext2>
 
