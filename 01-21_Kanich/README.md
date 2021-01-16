@@ -1,17 +1,3 @@
----
-output:
-  html_document:
-    highlight: null
-    css: style.css
-    self_contained: no
-    keep_md: true
----
-
-
-
-
-
-<br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
 
@@ -39,7 +25,7 @@ output:
 
 <br>
 
-<h4 class=pfblock-header3> Thursday, 01/14/2021 </h4>
+<h4 class=pfblock-header3> Thursday, 01/21/2021 </h4>
 <h4 class=pfblock-header3> 11:20am-12:40pm </h4>
 
 <br><br>
@@ -72,7 +58,7 @@ To begin to wrangle with these issues, we take a holistic approach to helping us
 This week's suggested readings:
 
 - [Khan, M. T., Hyun, M., Kanich, C., & Ur, B. (2018, April). Forgotten but not gone: Identifying the need for longitudinal data management in cloud storage. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/01-21_Kanich/Khan_et_al(2018).pdf)
-- A draft of the paper which has been distributed to the MACSS listserv and is available by request from Sanja Miklin (smiklin@uchicago.edu). 
+- A draft of a paper that has been distributed to the MACSS listserv and is available by request from Sanja Miklin (smiklin@uchicago.edu). 
 
 <br>
 
