@@ -1,4 +1,3 @@
-
 <br>
 
 <h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
@@ -7,7 +6,7 @@
 <h3 class=pfblock-header3> Department of Computer Science </h3>
 <h3 class=pfblock-header3> University of Illinois at Chicago </h3>
 
-<br>
+<br><br>
 
 
 
@@ -46,21 +45,22 @@ To begin to wrangle with these issues, we take a holistic approach to helping us
 <br><br>
 
 
+
 **Chris Kanich** is an Associate Professor at the University of Illinois at Chicago in the Department of Computer Science. He conducts data-driven research on the socio-technical aspects of cybersecurity. This research includes characterizing the shifting long-term privacy needs of Internet users, better understanding the extent to which deep learning threatens user security and privacy on the web, as well as the practical impact of security-centric tools like Single Sign-On and VPNs for users and non-users alike. His current work includes analysis of gains and losses due to undesirable activity on the Internet, investigating human factors in effective Internet security mechanisms, and building new technological primitives with the goal of increasing the practical security and privacy of Internet users.
 
-
 <br>
 
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJEsde-prDgrH9ETnoaaKfrXSV5ejgbP6Ntu) to request access. Accounts affiliated with the University of Chicago will be granted access. Others, reach out to Pedro Arroyo (arroyo@uchicago.edu) to request access.
+
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJEsde-prDgrH9ETnoaaKfrXSV5ejgbP6Ntu) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
 
-<br>
+
 This week's suggested readings:
 
 - [Khan, M. T., Hyun, M., Kanich, C., & Ur, B. (2018, April). Forgotten but not gone: Identifying the need for longitudinal data management in cloud storage. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-12).](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/01-21_Kanich/Khan et al (2018).pdf)
-- A draft of the paper which has been distributed to the MACSS listserv and is available by request from Sanja Miklin (smiklin@uchicago.edu). Please do not share the paper with others.
+- A draft of the paper which has been distributed to the MACSS listserv and is available by request from Sanja Miklin (smiklin@uchicago.edu). 
 
-<br>
+
 
 <br><br>
 
