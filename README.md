@@ -7,7 +7,7 @@
 <div><img src="https://www.seas.gwu.edu/sites/g/files/zaxdzs2406/f/styles/person_main_image/public/image/faculty_headshots/Caliskan_Aylin0420.jpg?itok=vEfY8Bgl" width="240"></div>
 
 
-### Jan 21st - Chris Kanich
+### Jan 21st - [Chris Kanich](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/01-21_Kanich)
 <div><img src="https://www.cs.uic.edu/~ckanich/images/ckanich.jpg" height="240"></div>
 
 
