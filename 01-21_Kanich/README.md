@@ -40,19 +40,15 @@ To characterize this phenomenon, we presented 100 online-survey participants wit
 To begin to wrangle with these issues, we take a holistic approach to helping users identify sensitive and unwanted files in cloud storage. We first conducted 17 qualitative interviews to characterize factors that make humans perceive a file as sensitive, useful, and worthy of either protection or deletion. Building on our findings, we showed 108 long-term users of Google Drive or Dropbox a selection of files from their accounts. They labeled and explained these files' sensitivity, usefulness, and desired management (whether they wanted to keep, delete, or protect them). For each file, we collected many metadata and content features, building a training dataset of 3,525 labeled files. We then built Aletheia, which predicts a file's perceived sensitivity and usefulness, as well as its desired management. Aletheia improves over state-of-the-art baselines by 26% to 159%, predicting users' desired file-management decisions with 79% accuracy. Notably, predicting subjective perceptions of usefulness and sensitivity led to a 10% absolute accuracy improvement in predicting desired file-management decisions. Aletheia's performance validates a human-centric approach to feature selection when using inference techniques on subjective security-related tasks. It also improves upon the state of the art in minimizing the attack surface of cloud accounts.
 
 
-</p>
-
-
-<p class=footertext2>
+<br>
 
 **Chris Kanich** is an Associate Professor at the University of Illinois at Chicago in the Department of Computer Science. He conducts data-driven research on the socio-technical aspects of cybersecurity. This research includes characterizing the shifting long-term privacy needs of Internet users, better understanding the extent to which deep learning threatens user security and privacy on the web, as well as the practical impact of security-centric tools like Single Sign-On and VPNs for users and non-users alike. His current work includes analysis of gains and losses due to undesirable activity on the Internet, investigating human factors in effective Internet security mechanisms, and building new technological primitives with the goal of increasing the practical security and privacy of Internet users.
 </p>
 
 <br>
 
-<p class=footertext2>
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](https://uchicago.zoom.us/meeting/register/tJEsde-prDgrH9ETnoaaKfrXSV5ejgbP6Ntu) to request access. Only accounts affiliated with the University of Chicago will be granted access.
-</p>
+
 
 <br>
 This week's suggested readings:
