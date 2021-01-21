@@ -11,7 +11,7 @@
 <div><img src="https://www.cs.uic.edu/~ckanich/images/ckanich.jpg" height="240"></div>
 
 
-### Jan 28th - Brooke Foucault Welles
+### Jan 28th - [Brooke Foucault Welles](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/01-28_Foucault-Welles)
 <div><img src="https://cssh.northeastern.edu/wp-content/uploads/2020/01/Brooke-Welles-web-600x800-c-default.jpg" width="240"></div>
 
 
