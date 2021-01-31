@@ -15,7 +15,8 @@
 <div><img src="https://cssh.northeastern.edu/wp-content/uploads/2020/01/Brooke-Welles-web-600x800-c-default.jpg" width="240"></div>
 
 
-### Feb 4th - Yinxian Zhang
+### Feb 4th - [Yinxian Zhang](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-04_Zhang)
+<div><img src="headshot_yz.png" width="240"></div>
 
 
 ### Feb 11th - Kate Starbird
