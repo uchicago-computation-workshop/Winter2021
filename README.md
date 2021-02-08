@@ -19,7 +19,7 @@
 <div><img src="headshot_yz.png" width="240"></div>
 
 
-### Feb 11th - Kate Starbird
+### Feb 11th - [Kate Starbird](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-11_Starbird)
 <div><img src = "https://www.hcde.washington.edu/files/people/imgs/starbird-headshot.jpg" width="240"></div>
 
 
