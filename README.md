@@ -23,7 +23,7 @@
 <div><img src = "https://www.hcde.washington.edu/files/people/imgs/starbird-headshot.jpg" width="240"></div>
 
 
-### Feb 18th - Molly Roberts
+### Feb 18th - [Molly Roberts](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-18_Roberts)
 <div><img src = "https://pup-assets.imgix.net/onix/images/margaret_e_roberts.jpg?w=640&h=640&fit=crop&auto=format" width="240"></div>
 
 

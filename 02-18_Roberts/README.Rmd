@@ -1,0 +1,116 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+date <- "02/18/2021"
+quarter <- "Winter2021"
+week_folder <- "02-18_Roberts"
+title <- "Resilience to Online Censorship"
+speaker <- "Margaret Roberts"
+department <- "Department of Political Science"
+university <- "University of California San Diego"
+github_home <- "https://github.com/uchicago-computation-workshop"
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Winter2021/issues/6"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJwpceygqD8sE91OZoQTxpSuWqDAgoWB3iLm"
+#Papers
+week_paper_ref1 <- "Chang, K. C., Hobbs, W. R., Roberts, M. & Steinert-Threlkeld, Z.(2020). Crisis is a Gateway to Censored Information: The Case of Coronavirus in China. *21st Century China Center Research Paper Series, Paper No. 2021-01.* Available at SSRN: https://ssrn.com/abstract=3756577"
+week_paper_file1 <- "Chang_et_al(2020).pdf"
+
+week_paper_ref2 <- "Pan, J., & Roberts, M. E. (2020). Censorship’s Effect on Incidental Exposure to Information: Evidence From Wikipedia. SAGE Open, 10(1), 2158244019894068."
+week_paper_file2 <- "Pan&Roberts(2020).pdf"
+
+week_paper_ref3 <- "Hobbs, W. R., & Roberts, M. E. (2018). How sudden censorship can increase access to information. American Political Science Review, 112(3), 621-636."
+week_paper_file3 <- "Hobbs&Roberts(2018).pdf"
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+
+readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
+readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file2,")")
+readings3 <- paste0("[", week_paper_ref3,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file3,")")
+```
+
+
+
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r department` </h3>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+
+<br><br>
+
+<p class=footertext2>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
+
+<p class=footertext2>
+
+**Summary:** TTo what extent are Internet users resilient to online censorship? When does censorship influence consumption of information and when does it create backlash? Drawing on data reflecting censorship evasion of the Great Firewall of China, I examine the extent to which individuals affected by censorship seek out ways to route around it.  Using censorship events of Wikipedia and Instagram and crisis events like the outbreak of COVID, I examine how changes in the censorship and political environment influence censorship evasion.  I find that crisis, as well as censorship of very popular and addictive websites, can create incentives for censorship evasion that in turn provides a gateway to long censored and sensitive political information.  But, in the absence of a strong incentive to jump the wall, censorship events cut off access not only to political information, but also to opportunities for exploration and learning.
+
+
+</p>
+
+<br>
+
+<p class=footertext2>
+
+**Margaret (Molly) Roberts** is an Associate Professor of Political Science at University of California San Diego. Her research interests lie in the intersection of political methodology and the politics of information, with a specific focus on methods of automated content analysis and the politics of censorship in China.  She received a PhD from Harvard in Government (2014), MS in Statistics from Stanford (2009) and BA in International Relations and Economics (2009).  Currently, she is working on a variety of projects that span censorship, propaganda, topic models, and other methods of text analysis.  Her work has appeared or is forthcoming in the *American Journal of Political Science*, *American Political Science Review*, *Political Analysis*, and *Science*.
+</p>
+
+<br>
+
+<br>
+This week's suggested readings:
+
+- `r readings1`
+- `r readings2`
+- `r readings3`
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
+
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
