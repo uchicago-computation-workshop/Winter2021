@@ -31,11 +31,13 @@ week_paper_ref3 <- "Dworkin, J., Zurn, P., & Bassett, D. S. (2020). (In) citing 
 week_paper_file3 <- "Dworkin,Zurn&Bassett(2020).pdf"
 
 #No Need to Edit
-week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/master/",week_folder)
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/main/",week_folder)
 
-readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file1,")")
-readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file2,")")
-readings3 <- paste0("[", week_paper_ref3,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/master/", week_folder,"/",week_paper_file3,")")
+readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/main/", week_folder,"/",week_paper_file1,")")
+
+
+readings2 <- paste0("[", week_paper_ref2,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/main/", week_folder,"/",week_paper_file2,")")
+readings3 <- paste0("[", week_paper_ref3,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/main/", week_folder,"/",week_paper_file3,")")
 ```
 
 
@@ -77,7 +79,7 @@ readings3 <- paste0("[", week_paper_ref3,"](https://github.com/uchicago-computat
 <br><br>
 
 <p class=footertext2>
-**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [link](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [**link**](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 </p>
 
 <p class=footertext2>
@@ -103,6 +105,7 @@ This week's suggested readings:
 - `r readings2`
 
 Additional related reading:
+
 - `r readings3`
 
 <br>

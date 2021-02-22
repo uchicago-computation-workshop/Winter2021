@@ -9,6 +9,7 @@
 <br>
 
 
+
 <p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
 
 
@@ -17,27 +18,23 @@
 
 <div class=pfblock-header3>
 <h2 class=pfblock-header>
-  <a href=https://github.com/uchicago-computation-workshop/Winter2021/tree/master/02-25_Bassett> (In)citing Action to Realize an Equitable Future </a>
+  <a href=https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-25_Bassett> (In)citing Action to Realize an Equitable Future </a>
 </h2>
 
-<br>
 </div>
 
+<br>
 
 <h4 class=pfblock-header3> Thursday, 02/25/2021 </h4>
 <h4 class=pfblock-header3> 11:20am-12:40pm </h4>
 
-<br><br>
+<br>
 
 **Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [**link**](https://uchicago.zoom.us/meeting/register/tJYvceuuqjoqHtH22bdL00lvo29kz5gEmyy_) to request access. Only accounts affiliated with the University of Chicago will be granted access.
 
-
+<br>
 
 **Summary:** In recent years, science has been pushed to grapple with the social and structural systems that produce vast gender and racial/ethnic imbalances in academic participation. While current discussions largely focus on the role of people in positions of power (e.g., journal editors, grant reviewers and agencies, department chairs, and society presidents), many imbalances are in fact caused and perpetuated by researchers themselves. A key example is imbalance within citation practices, where people from marginalized groups are broadly undercited, precluding an unbiased trajectory in the search for scientific truth. Because of the downstream effects that citations can have on visibility and career advancement, understanding and eliminating bias in citation practices is vital for addressing inequity in our scientific community. Here we uncover evidence of striking (and growing) gender and racial/ethnic imbalances in reference lists of STEM articles, and evaluate several candidate drivers of those imbalances. We also offer practical (and open-access) tools for the mitigation of disparity, thereby placing the power for social justice within the hands of individual researchers.
-
-</p>
-
-<br>
 
 
 
@@ -45,24 +42,22 @@
 
 
 
-
-
 <br>
 This week's suggested readings:
 
-- [Dworkin, J. D., Linn, K. A., Teich, E. G., Zurn, P., Shinohara, R. T., & Bassett, D. S. (2020). The extent and drivers of gender imbalance in neuroscience reference lists. *Nature neuroscience*, 23(8), 918-926.](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/02-25_Bassett/Dworkin_et_al(2020).pdf)
-- [Bertolero, M. A., Dworkin, J. D., David, S. U., Lloreda, C. L., Srivastava, P., Stiso, J., ... & Bassett, D. S. (2020 Preprint). Racial and ethnic imbalance in neuroscience reference lists and intersections with gender. *BioRxiv*.](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/02-25_Bassett/Bertolero_et_al(2020).pdf)
+- [Dworkin, J. D., Linn, K. A., Teich, E. G., Zurn, P., Shinohara, R. T., & Bassett, D. S. (2020). The extent and drivers of gender imbalance in neuroscience reference lists. *Nature neuroscience*, 23(8), 918-926.](https://github.com/uchicago-computation-workshop/Winter2021/blob/main/02-25_Bassett/Dworkin_et_al(2020).pdf)
+- [Bertolero, M. A., Dworkin, J. D., David, S. U., Lloreda, C. L., Srivastava, P., Stiso, J., ... & Bassett, D. S. (2020 Preprint). Racial and ethnic imbalance in neuroscience reference lists and intersections with gender. *BioRxiv*.](https://github.com/uchicago-computation-workshop/Winter2021/blob/main/02-25_Bassett/Bertolero_et_al(2020).pdf)
 
-Additional related reading:  
+Additional related reading:
 
-- [Dworkin, J., Zurn, P., & Bassett, D. S. (2020). (In) citing action to realize an equitable future. Neuron, 106(6), 890-894.](https://github.com/uchicago-computation-workshop/Winter2021/blob/master/02-25_Bassett/Dworkin,Zurn&Bassett(2020).pdf)
-
+- [Dworkin, J., Zurn, P., & Bassett, D. S. (2020). (In) citing action to realize an equitable future. Neuron, 106(6), 890-894.](https://github.com/uchicago-computation-workshop/Winter2021/blob/main/02-25_Bassett/Dworkin,Zurn&Bassett(2020).pdf)
 
 <br>
+
 
 ---
 
 <p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
 
 
-<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2021/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2021/tree/master/02-25_Bassett>workshop's public repository on GitHub.</a></p>
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=https://github.com/uchicago-computation-workshop/Winter2021/issues/7>issues page</a> of the <a href=https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-25_Bassett>workshop's public repository on GitHub.</a></p>
