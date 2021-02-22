@@ -27,7 +27,7 @@
 <div><img src = "https://pup-assets.imgix.net/onix/images/margaret_e_roberts.jpg?w=640&h=640&fit=crop&auto=format" width="240"></div>
 
 
-### Feb 25th - Dani Bassett (University of Pennsylvania)
+### Feb 25th - [Danielle Bassett](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/02-25_Bassett)
 <div><img src = "https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Bassett-Danielle.jpg" width="240"></div>
 
 
