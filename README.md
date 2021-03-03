@@ -31,11 +31,9 @@
 <div><img src = "https://directory.seas.upenn.edu/wp-content/uploads/2020/03/Bassett-Danielle.jpg" width="240"></div>
 
 
-### March 4th - Renee DiResti
+### March 4th - [Renee DiResta](https://github.com/uchicago-computation-workshop/Winter2021/tree/main/03-04_DiResta)
 <div><img src = "https://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/renee-diresta.jpg" height="240"></div>
 
-
-### March 11th - TBD
 
 <br>
 <br>

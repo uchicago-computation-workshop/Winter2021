@@ -1,0 +1,110 @@
+---
+output:
+  html_document:
+    highlight: null
+    css: style.css
+    self_contained: no
+    keep_md: true
+---
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(stringr)
+date <- "03/04/2021"
+quarter <- "Winter2021"
+week_folder <- "03-04_DiResta"
+title <- "Mis- and Disinformation Dynamics in Critical Conversations"
+speaker <- "Renee DiResta"
+department <- ""
+university <- "Stanford Internet Observatory"
+github_home <- "https://github.com/uchicago-computation-workshop"
+#Update Weekly
+issues_url <- "https://github.com/uchicago-computation-workshop/Winter2021/issues/8"
+zoom_url <- "https://uchicago.zoom.us/meeting/register/tJYtduirqzsoGdxeNsAUg_4wKwrL3K7PmEdM"
+#Papers
+week_paper_ref1 <- "Executive Summary of *The Long Fuse: Misinformation
+and the 2020 Election* (Center for an Informed Public, Digital Forensic Research Lab, Graphika, & Stanford Internet Observatory, 2021)"
+week_paper_file1 <- "EIP_Summary.pdf"
+
+#No Need to Edit
+week_repo <- paste0("https://github.com/uchicago-computation-workshop/",quarter,"/tree/main/",week_folder)
+
+readings1 <- paste0("[", week_paper_ref1,"](https://github.com/uchicago-computation-workshop/",quarter,"/blob/main/", week_folder,"/",week_paper_file1,")")
+
+```
+
+
+
+
+
+<br>
+
+<h3 class=pfblock-header> The Computational Social Science Workshop Presents </h3>
+
+<h1 class=pfblock-header3> `r speaker`</h1>
+<h3 class=pfblock-header3> `r university` </h3>
+
+<br><br>
+
+
+
+<p class=pfblock-header3>The <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> at the University of Chicago cordially invites you to attend this week's talk:</p>
+
+
+
+<br>
+
+<div class=pfblock-header3>
+<h2 class=pfblock-header>
+  <a href=`r week_repo`> `r title` </a>
+</h2>
+
+<br>
+</div>
+
+<br>
+
+<h4 class=pfblock-header3> Thursday, `r date` </h4>
+<h4 class=pfblock-header3> 11:20am-12:40pm </h4>
+
+<br><br>
+
+<p class=footertext2>
+**Registration**: The presentation will be held virtually on Zoom. For security purposes, please register through this [**link**](`r zoom_url`) to request access. Only accounts affiliated with the University of Chicago will be granted access.
+</p>
+
+<p class=footertext2>
+
+**Summary:** From July to January of 2020, Stanford Internet Observatory researchers worked with a coalition of researchers, government entities, tech companies, and civil society organizations in an multistakeholder partnership called the Election Integrity Partnership (EIP). Its mission was to rapidly detect high-velocity and potentially impactful false and misleading narratives related to voting. This talk will discuss findings from the partnership: how incidents became narratives, the rise of bottom-up misinformation, the dynamics of repeat spreaders, and the way in which platform policies shape message propagation. It will also discuss the mechanisms of the EIP itself and the way in which such a model might be applied more broadly, including towards health misinformation.
+
+</p>
+
+<br>
+
+<p class=footertext2>
+
+**Renee DiResta** is the Research Manager at the Stanford Internet Observatory. She investigates the spread of malign narratives across social networks, and assists policymakers in understanding and responding to the problem. She has advised Congress, the State Department, and other academic, civic, and business organizations, and has studied disinformation and computational propaganda in the context of pseudoscience conspiracies, terrorism, and state-sponsored information warfare.
+You can see a full list of Renée's writing and speeches on her website: www.reneediresta.com or follow her on twitter @noupside.
+
+</p>
+
+<br>
+
+<br>
+This week's suggested readings:
+
+- `r readings1`
+
+Additional related reading:
+
+- [Center for an Informed Public, Digital Forensic Research Lab, Graphika, & Stanford Internet Observatory (2021). The Long Fuse: Misinformation and the 2020 Election. Stanford Digital Repository: Election Integrity Partnership. v2.0.0](https://www.eipartnership.net/report)
+
+<br>
+
+<br><br>
+
+---
+
+<p class=footertext> The 2020-2021 <a href="https://macss.uchicago.edu/content/computation-workshop"> Computational Social Science Workshop </a> meets each Thursday from 11:20 a.m. to 12:40 p.m.. All interested faculty and graduate students are welcome.</p>
+
+
+<p class=footertext>Students in the Masters of Computational Social Science program are expected to attend and join the discussion by posting a comment on the <a href=`r issues_url`>issues page</a> of the <a href=`r week_repo`>workshop's public repository on GitHub.</a></p>
